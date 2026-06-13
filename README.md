@@ -42,7 +42,7 @@ Our mission is to create a fast, stable, and feature-rich bot while maintaining 
 ---
 
 ### 🟩 Fays (Sign: )
-**Co Owner and Developer**
+**Owner and Developer**
 
 - Feature Development
 - Discord Systems
