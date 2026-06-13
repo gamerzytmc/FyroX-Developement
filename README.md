@@ -61,7 +61,7 @@ Our mission is to create a fast, stable, and feature-rich bot while maintaining 
 
 ---
 
-### 🟧 xeoilo 
+### 🟧 xeailo 
 **Developer**
 
 - Feature Implementation
