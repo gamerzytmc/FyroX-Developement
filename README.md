@@ -30,7 +30,7 @@ Our mission is to create a fast, stable, and feature-rich bot while maintaining 
 
 ## 👑 Leadership & Core Team
 
-### 🟦 Angel (Sign: )
+### 🟦 Angel
 **Founder & Lead Developer**
 
 - Project Management
@@ -41,8 +41,8 @@ Our mission is to create a fast, stable, and feature-rich bot while maintaining 
 
 ---
 
-### 🟩 Fays (Sign: )
-**Owner and Developer**
+### 🟩 Fays 
+**Founder and Developer**
 
 - Feature Development
 - Discord Systems
@@ -51,8 +51,8 @@ Our mission is to create a fast, stable, and feature-rich bot while maintaining 
 
 ---
 
-### 🟨 GamerzYTMC (Sign: Reyansh Sharma)
-**Co Owner and Developer**
+### 🟨 GamerzYTMC 
+**Co Founder and Developer**
 
 - Bot Development
 - Module Creation
@@ -61,7 +61,7 @@ Our mission is to create a fast, stable, and feature-rich bot while maintaining 
 
 ---
 
-### 🟧 xeoilo (Sign: )
+### 🟧 xeoilo 
 **Developer**
 
 - Feature Implementation
@@ -71,7 +71,7 @@ Our mission is to create a fast, stable, and feature-rich bot while maintaining 
 
 ---
 
-### 🟥 LawLiet (Sign: )
+### 🟥 LawLiet 
 **Developer**
 
 - Testing
